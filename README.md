@@ -1,6 +1,6 @@
 # Generatore di Certificati
 
-Questo progetto Python consente di generare chiavi private, richieste di certificato (CSR), e certificati autofirmati utilizzando la libreria OpenSSL.
+Questo progetto Python consente di generare chiavi private, richieste di certificato (CSR), e certificati autofirmati utilizzando la libreria OpenSSL tramite file conf.
 
 ## Istruzioni
 

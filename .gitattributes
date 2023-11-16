@@ -1,2 +1,4 @@
 *.py linguist-language=Python
 *.sh linguist-language=Shell
+
+dist/genera_cert.py linguist-detectable=true
